@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfuryusstudio&label=Profile%20views&color=0e75b6&style=flat" alt="xfuryusstudio" /> </p>
 
-- 🔭 Currently working on [Main Page](https://github.com/xfuryusstudio/XFuryusStudio)
+- 🔭 Currently working on [Main Page](https://github.com/xfuryusstudio/Private-Website)
 
 - 📝 Articles on projects at [https://archive.xfuryusstudio.ga](https://archive.xfuryusstudio.ga)
 
